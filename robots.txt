@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuno.mongoengine.org/superjp/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/gilajp/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/gojekpot/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/winstrike69/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/slotgacor/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/slotzeus/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/kaptenjackpot/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/boosterjp/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/kerajaanslot/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/pakong86/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/viral88/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/clan4d/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/dinamit4d/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/elang212/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/gori77/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/viral4d/sitemap.xml
+Sitemap: http://kuno.mongoengine.org/playground88/sitemap.xml
